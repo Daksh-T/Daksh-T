@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 My name is Daksh
 
-I am currently studying in highschool and looking to major in Computer Science
+I am a highschool student looking to major in Computer Science
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Web Development and Python</p>
 <p>📫 How to reach me? daksh@retros.live</p>
 <p>All of my projects are available at <a href="blog.daksh.page">Forever Learning</a></p>
-<p>⚡ Fun Fact: In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they’d have the problem solved by the end of the summer. Half a century later, we’re still working on it.</p>
+<p>⚡ I love listening to EDM, my personal favorites are Martin Garrix and The Chainsmokers but I usually listen to Kygo when working</p>
 
 ## 💻 Skills
 <p>
@@ -32,18 +32,6 @@ I am currently studying in highschool and looking to major in Computer Science
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
-<p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=Daksh-T">
-</p>
 
 ## 📊 Github Status
 
