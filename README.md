@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I am a highschool student looking to major in Computer Science
 
-## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Web Development and Python</p>
-<p>📫 How to reach me? daksh@retros.live</p>
+## 💫 A Liitle Bit More About Me
+<p>🌱 I'm currently learning <b>Web Development and Python</b></p>
+<p>📫 How to reach me? <b>daksh@retros.live</b></p>
 <p>All of my projects are available at <a href="blog.daksh.page">Forever Learning</a></p>
 <p>⚡ I love listening to EDM, my personal favorites are Martin Garrix and The Chainsmokers but I usually listen to Kygo when working</p>
 
