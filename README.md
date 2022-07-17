@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a highschool student looking to major in Computer Science
 
-## 💫 A Liitle Bit More About Me
+## 💫 A Little Bit More About Me
 <p>🌱 I'm currently learning <b>Web Development and Python</b></p>
 <p>📫 How to reach me? <b>daksh@retros.live</b></p>
 <p>📰 I share my thoughts in my blog <a href="https://blog.daksh.page">Forever Learning</a></p>
