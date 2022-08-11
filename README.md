@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 My name is Daksh
 
-I am a highschool student looking to major in Computer Science
+I am a highschool student looking to major in Software Engineering
 
 ## 💫 A Little Bit More About Me
 <p>🌱 I'm currently learning <b>Web Development and Python</b></p>
