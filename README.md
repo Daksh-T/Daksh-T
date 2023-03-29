@@ -21,7 +21,6 @@ I am a highschool student looking to further study Computer Science and Artifici
 <p>🌱 I'm currently learning <b>Python</b></p>
 <p>📫 How to reach me? <b>dakshtyagi@proton.me</b></p>
 <p>📰 I often write in my blog <a href="https://daksh.page">Forever Learning</a></p>
-<p>⚡ I love listening to EDM. My current favorites are Martin Garrix and The Chainsmokers but I also really like the works of Kygo and Avicii.</p>
 
 ## 💻 Skills
 <p>
