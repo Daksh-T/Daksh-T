@@ -19,7 +19,7 @@ I am a highschool student looking to major in Software Engineering
 
 ## 💫 A Little Bit More About Me
 <p>🌱 I'm currently learning <b>Web Development and Python</b></p>
-<p>📫 How to reach me? <b>daksh@retros.live</b></p>
+<p>📫 How to reach me? <b>daksh@proton.me</b></p>
 <p>📰 I often write in my blog <a href="https://daksh.page">Forever Learning</a></p>
 <p>⚡ I love listening to EDM. My current favorites are Martin Garrix and The Chainsmokers but I also really like the works of Kygo and Avicii.</p>
 
