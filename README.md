@@ -21,6 +21,7 @@ I am a highschool student who's passionate about CS and Data Science/Machine Lea
 <p>🌱 I'm currently learning <b>Python</b></p>
 <p>📫 How to reach me? <b>dakshtyagi@proton.me</b></p>
 <p>📰 I write a blog at <a href="https://dakshblog.tech">Forever Learning</a></p>
+<p>🎵 My favorite artist is Martin Garrix</p>
 
 ## 💻 Skills
 <p>
