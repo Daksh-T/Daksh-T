@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 My name is Daksh
 
-I am a highschool student looking to further study Computer Science and Artificial Intelligence
+I am a highschool student who's passionate about CS and Data Science/Machine Learning!
 
 ## 💫 A Little Bit More About Me
 <p>🌱 I'm currently learning <b>Python</b></p>
 <p>📫 How to reach me? <b>dakshtyagi@proton.me</b></p>
-<p>📰 I write a blog at <a href="https://daksh.page">Forever Learning</a></p>
+<p>📰 I write a blog at <a href="https://dakshblog.tech">Forever Learning</a></p>
 
 ## 💻 Skills
 <p>
