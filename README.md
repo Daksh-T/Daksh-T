@@ -23,15 +23,6 @@ I am a highschool student who's passionate about Computer Science, Data Science 
 <p>📰 I write a blog at <a href="https://foreverlearning.hashnode.dev/">Forever Learning</a></p>
 <p>🎵 I love listening to EDM, my favorite is Martin Garrix!</p>
 
-## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
-
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Daksh-T&show_icons=true"><p>
