@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 My name is Daksh
 
-I am a highschool student who's passionate about CS and Data Science/Machine Learning!
+I am a highschool student who's passionate about Computer Science, Data Science and Machine Learning!
 
 ## 💫 A Little Bit More About Me
-<p>🌱 I'm currently learning <b>Python</b></p>
+<p>⌨️ I'm most comfortable working in <b>Python</b>, but I also dabble in web development with <b>HTML, CSS, and JavaScript</b></p>
 <p>📫 You can reach me at <b><a href="mailto:dakshtyagi94@gmail.com">dakshtyagi94@gmail.com</b></p>
 <p>📰 I write a blog at <a href="https://foreverlearning.hashnode.dev/">Forever Learning</a></p>
 <p>🎵 I love listening to EDM, my favorite is Martin Garrix!</p>
