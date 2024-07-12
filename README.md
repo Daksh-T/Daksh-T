@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a highschool student who's passionate about Computer Science, Data Science and Machine Learning!
 
-## 💫 A Little Bit More About Me
+## 💫 More About Me
 <p>⌨️ I'm most comfortable working in <b>Python</b>, but I also dabble in web development with <b>HTML, CSS, and JavaScript</b></p>
 <p>📫 You can reach me at <b><a href="mailto:dakshtyagi94@gmail.com">dakshtyagi94@gmail.com</b></p>
 <p>📰 I write a blog at <a href="https://foreverlearning.hashnode.dev/">Forever Learning</a></p>
