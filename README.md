@@ -21,7 +21,7 @@ I am a highschool student who's passionate about Computer Science, Data Science 
 <p>⌨️ I'm most comfortable working in <b>Python</b>, but I also dabble in web development with <b>HTML, CSS, and JavaScript</b></p>
 <p>📫 You can reach me at <b><a href="mailto:dakshtyagi94@gmail.com">dakshtyagi94@gmail.com</b></p>
 <p>📰 I write a blog at <a href="https://foreverlearning.hashnode.dev/">Forever Learning</a></p>
-<p>🎵 I love listening to EDM, my favorite is Martin Garrix!</p>
+<p>🎵 I love listening to EDM, my favorite artist is Martin Garrix!</p>
 
 ## 📊 Github Status
 
