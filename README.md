@@ -26,5 +26,3 @@ I am a highschool student who's passionate about Computer Science, Data Science 
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Daksh-T&show_icons=true"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-T"><p>
