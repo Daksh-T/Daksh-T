@@ -1,28 +1,26 @@
+## Hi, I'm Daksh 👋
 
-<!--
-**Daksh-T/Daksh-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A future-focused student and builder, passionate about creating technology that addresses complex problems at the intersection of community, climate, and AI. 
 
-Here are some ideas to get you started:
+I'm an incoming **Global Scholar** and **Bonner Leader** at **Sewanee: The University of the South ('29)**, where I plan to explore Computer Science and Environmental Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋 My name is Daksh
+---
 
-I am a highschool student who's passionate about Computer Science, Data Science and Machine Learning!
+### 🔭 What I'm Focused On
 
-## 💫 More About Me
-<p>⌨️ I'm most comfortable working in <b>Python</b>, but I also dabble in web development with <b>HTML, CSS, and JavaScript</b></p>
-<p>📫 You can reach me at <b><a href="mailto:dakshtyagi94@gmail.com">dakshtyagi94@gmail.com</b></p>
-<p>📰 I write a blog at <a href="https://foreverlearning.hashnode.dev/">Forever Learning</a></p>
-<p>🎵 I love listening to EDM, my favorite artist is Martin Garrix!</p>
+- 🌱 **Learning & Exploring:** Diving deep into data structures, algorithms, and the principles of responsible AI development.
+- 🌍 **Building for Impact:** Applying my skills in Python, web development, and data analysis to projects that serve communities and tackle environmental challenges. You can see some of my work pinned below!
+- 🤝 **Collaboration:** Always open to connecting with fellow students, researchers, and builders who are passionate about using tech for good.
 
-## 📊 Github Status
+### 📫 How to Reach Me
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Daksh-T&show_icons=true"><p>
+- **LinkedIn:** https://linkedin.com/in/daksh-tyagi-dev
+- **Email:** dakshtyagi94@gmail.com
+
+
+---
+
+
+### 📊 My GitHub Stats
+
+![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daksh-T&show_icons=true)
