@@ -8,18 +8,18 @@ I'm an incoming **Global Scholar** and **Bonner Leader** at **Sewanee: The Unive
 
 ### 🔭 What I'm Focused On
 
-- 🌱 **Learning & Exploring:** Diving deep into data structures, algorithms, and the principles of responsible AI development.
+- 🌱 **Learning & Exploring:** Preparing for my first year at Sewanee, where I plan to explore coursework in data structures, algorithms, and environmental data analysis.
 - 🌍 **Building for Impact:** Applying my skills in Python, web development, and data analysis to projects that serve communities and tackle environmental challenges. You can see some of my work pinned below!
-- 🤝 **Collaboration:** Always open to connecting with fellow students, researchers, and builders who are passionate about using tech for good.
+- 📖 **Reading:** Diving deeper into AI's impact on society as well as AI capabilities, ethics and governance literature.
+- 🤝 **Collaboration:** Open to connecting with fellow students, researchers, and builders who are passionate about using tech for good!
 
 ### 📫 How to Reach Me
 
 - **LinkedIn:** https://linkedin.com/in/daksh-tyagi-dev
 - **Email:** dakshtyagi94@gmail.com
-
+- **Blog (Archived):** While I'm not actively writing, you can find my past thoughts at [Forever Learning](https://foreverlearning.hashnode.dev/).
 
 ---
-
 
 ### 📊 My GitHub Stats
 
