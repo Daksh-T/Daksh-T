@@ -1,8 +1,8 @@
 ## Hi, I'm Daksh 👋
 
-A future-focused student and builder, passionate about creating technology that addresses complex problems at the intersection of community, climate, and AI. 
+A future-focused student and builder, passionate about creating tech that addresses complex problems at the intersection of community, climate, and AI. 
 
-I'm an incoming **Global Scholar** and **Bonner Leader** at **Sewanee: The University of the South ('29)**, where I plan to explore Computer Science and Environmental Science.
+I'm an incoming **Global Scholar** and **Bonner Leader** at **Sewanee: The University of the South (C'29)**, where I plan to explore Computer Science and Environmental Science.
 
 ---
 
